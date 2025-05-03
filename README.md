@@ -16,10 +16,10 @@ By day, I'm a **3D artist and graphic designer** creating visual content under t
 - Creating design mockups, experimental tools, and digital assets
 
 ### 🧰 Tools I like:
-`React` • `TailwindCSS` • `Next.js` • `Three.js` • `Svelte` • `Hyprland` • `Blender` • `Figma` • `Affinity Designer`
+`React` • `TailwindCSS` • `Next.js` • `Three.js` • `Svelte` • `Hyprland` • `Blender` • `Figma`
 
 ### 🧭 My approach:
-No degrees, no bootcamps — just a self-taught path blending design and code. I'm all about **learning in public**, **making things that scratch my own itch**, and building from a place of curiosity and creativity.
+No degrees, no bootcamps — just a self-taught path blending design and code. I'm all about **learning in public**, **making things that scratch my itch**, and building from a place of curiosity and creativity.
 
 ---
 
