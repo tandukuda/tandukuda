@@ -24,6 +24,6 @@ No degrees, no bootcamps — just a self-taught path blending design and code. I
 ---
 
 If you enjoy what I do and want to support my work:  
-☕ [Buy Me a Coffee](https://buymeacoffee.com/tandukuda)
+☕ [Ko-fi](https://ko-fi.com/tandukuda)
 
 > Thanks for stopping by. Let's make cool stuff.
