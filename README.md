@@ -1,4 +1,4 @@
-# Hi, I'm Ridho 👋
+# Hi 👋
 
 I'm a **self-taught programmer** with no formal background in IT or computer science — just a lot of curiosity, late nights, and a stubborn drive to figure things out.
 
@@ -11,8 +11,8 @@ By day, I'm a **3D artist and graphic designer** creating visual content under t
 - 💻 Learning by building (and breaking) things
 
 ### 🧪 Currently working on:
-- **Skatchr** – an open-source web whiteboard for sketching and collaboration  
-- Customizing my Linux workflow with **Hyprland**  
+- **SceneShift** – a TUI process optimizer built with Go and Bubble Tea  
+- **LiteQR** - a lightweight, fast QR code generator with dynamic capabilities and customization options 
 - Creating design mockups, experimental tools, and digital assets
 
 ### 🧰 Tools I like:
