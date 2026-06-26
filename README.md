@@ -35,6 +35,7 @@ Whether it's a CLI, a web app, an automation script, or a design system, I enjoy
 
 If you find my work useful, consider supporting it:
 
-**Ko-fi:** https://ko-fi.com/tandukuda
+**Ko-fi**<br>
+https://ko-fi.com/tandukuda
 
 Building tools for creative people, one project at a time.
