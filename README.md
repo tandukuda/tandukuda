@@ -1,4 +1,4 @@
-# Hi 👋
+# Hi!
 
 I'm Ridho, a **UI/UX designer, creative developer, and self-taught programmer** from Indonesia.
 
@@ -10,10 +10,10 @@ I enjoy building products from the ground up, from UX and visual design to front
 
 ## What I'm building
 
-* 🖥️ Developer tools & terminal applications
-* 🌐 Frontend web applications
-* 🎨 Design systems and UI experiments
-* ⚡ Open-source utilities that solve everyday problems
+* Developer tools & terminal applications
+* Frontend web applications
+* Design systems and UI experiments
+* Open-source utilities that solve everyday problems
 
 ## Current projects
 
@@ -35,6 +35,6 @@ Whether it's a CLI, a web app, an automation script, or a design system, I enjoy
 
 If you find my work useful, consider supporting it:
 
-☕ **Ko-fi:** https://ko-fi.com/tandukuda
+**Ko-fi:** https://ko-fi.com/tandukuda
 
 Building tools for creative people, one project at a time.
