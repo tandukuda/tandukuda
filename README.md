@@ -1,29 +1,41 @@
 # Hi 👋
 
-I'm a **self-taught programmer** with no formal background in IT or computer science — just a lot of curiosity, late nights, and a stubborn drive to figure things out.
+I'm Ridho, a **UI/UX designer, creative developer, and self-taught programmer** from Indonesia.
 
-By day, I'm a **3D artist and graphic designer** creating visual content under the name **tandukuda** — working with music labels, brands, and creative studios to turn ideas into imagery. By night (or whenever I get the chance), I dive into code and build tools to make creative work easier and more fun.
+My background is in visual communication, graphic design, motion design, and 3D. Today, I spend most of my time designing interfaces and building software that helps creative people work faster and better.
 
-### ✨ What I do:
-- 🎨 3D design & motion graphics  
-- 🧠 Creative direction & visual storytelling  
-- 🛠️ Frontend development & creative tooling  
-- 💻 Learning by building (and breaking) things
+I enjoy building products from the ground up, from UX and visual design to frontend development and automation. Most of my projects start with a simple question:
 
-### 🧪 Currently working on:
-- **SceneShift** – a TUI process optimizer built with Go and Bubble Tea  
-- **LiteQR** - a lightweight, fast QR code generator with dynamic capabilities and customization options 
-- Creating design mockups, experimental tools, and digital assets
+> *"Can I build a better tool for this?"*
 
-### 🧰 Tools I like:
-`React` • `TailwindCSS` • `Next.js` • `Three.js` • `Svelte` • `Hyprland` • `Blender` • `Figma`
+## What I'm building
 
-### 🧭 My approach:
-No degrees, no bootcamps — just a self-taught path blending design and code. I'm all about **learning in public**, **making things that scratch my itch**, and building from a place of curiosity and creativity.
+* 🖥️ Developer tools & terminal applications
+* 🌐 Frontend web applications
+* 🤖 AI-assisted creative workflows
+* 🎨 Design systems and UI experiments
+* ⚡ Open-source utilities that solve everyday problems
+
+## Current projects
+
+* **Forma**: a filesystem-first client intake platform
+* **SceneShift**: a terminal process optimizer built with Go and Bubble Tea
+* **LiteQR**: a lightweight QR code generator focused on speed and customization
+
+## Tech I enjoy
+
+`Go` • `TypeScript` • `React` • `Next.js` • `Tailwind CSS` • `Three.js` • `Framer`
+
+## Philosophy
+
+I learn by building.
+
+Whether it's a CLI, a web app, an automation script, or a design system, I enjoy understanding how things work and turning ideas into tools that people can actually use.
 
 ---
 
-If you enjoy what I do and want to support my work:  
-☕ [Ko-fi](https://ko-fi.com/tandukuda)
+If you find my work useful, consider supporting it:
 
-> Thanks for stopping by. Let's make cool stuff.
+☕ **Ko-fi:** https://ko-fi.com/tandukuda
+
+Building tools for creative people, one project at a time.
