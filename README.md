@@ -12,7 +12,6 @@ I enjoy building products from the ground up, from UX and visual design to front
 
 * 🖥️ Developer tools & terminal applications
 * 🌐 Frontend web applications
-* 🤖 AI-assisted creative workflows
 * 🎨 Design systems and UI experiments
 * ⚡ Open-source utilities that solve everyday problems
 
