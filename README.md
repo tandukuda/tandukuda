@@ -1,6 +1,6 @@
 # Hi!
 
-I'm Ridho, a **UI/UX designer, creative developer, and self-taught programmer** from Indonesia.
+I'm tandukuda, a **UI/UX designer, creative developer, and self-taught programmer** from Indonesia.
 
 My background is in visual communication, graphic design, motion design, and 3D. Today, I spend most of my time designing interfaces and building software that helps creative people work faster and better.
 
